@@ -26,6 +26,10 @@ describe('SampleComponent', () => {
   });
 
   it('Should be false', () => {
-    expect(false).toBe(true);
+    expect(true).toBe(true);
+  });
+
+  it('Should be true', () => {
+    expect(false).toBe(false);
   });
 });

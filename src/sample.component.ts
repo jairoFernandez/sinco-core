@@ -2,7 +2,7 @@ import { Component } from '@angular/core';
 
 @Component({
   selector: 'sample-component',
-  template: `<h1>Sample component</h1>`
+  template: `<h1>Sample component cambio en test</h1>`
 })
 export class SampleComponent {
 
